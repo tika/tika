@@ -1,5 +1,8 @@
-### Hi there 👋
+![image](https://i.imgur.com/sslCATX.png)
 
+<h1 align="center">Hey 👋</h1>
+
+🌱 I’m currently learning Java ☕ and Javascript 📝 - my future projects will **always** be put on GitHub
 <!--
 **tika/tika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
