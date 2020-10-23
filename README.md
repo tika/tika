@@ -3,4 +3,4 @@
 <h1 align="center">Hey 👋</h1>
 
 <p>Java & JS</p>
-<p>Stack:</p> <b>MERN</b>
+<span>Stack: <b>MERN</b></span> 
