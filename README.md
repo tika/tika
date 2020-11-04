@@ -10,5 +10,3 @@
 ### Projects
 📝 <b>Preplar</b> - JavaScript: Organise your homework. Frontend built using React, backend with Express and MongoDB. </br>
 🎉 <b>Rave</b> - Java: A parties plugin. A Minecraft [Spigot](https://spigotmc.org/) plugin - inspired by [Hypixel](https://hypixel.net/)'s party system.
-
-<b>Happy halloween</b> 🎃
