@@ -11,3 +11,4 @@
 📝 <b>Preplar</b> - JavaScript: Organise your homework. Frontend built using React, backend with Express and MongoDB. [View](https://preplar.tika.one/)</br>
 🎉 <b>Rave</b> - Java: A parties plugin. A Minecraft [Spigot](https://spigotmc.org/) plugin - inspired by [Hypixel](https://hypixel.net/)'s party system.</br>
 🌊 <b>LiquidCore</b> - Java: A prison core for [Liquid Prison](https://store.liquidprison.com/) - a bundle of [Spigot](https://spigotmc.org/) plugins, designed to suit the needs of the server.
+🚿 <b>Tide</b> - Java: A very minimal library made for making [Spigot](https://spigotmc.org/) plugins.
